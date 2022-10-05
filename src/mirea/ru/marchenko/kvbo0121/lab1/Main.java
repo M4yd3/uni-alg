@@ -1,4 +1,4 @@
-package lab1;
+package mirea.ru.marchenko.kvbo0121.lab1;
 
 import java.util.Scanner;
 

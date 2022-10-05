@@ -1,4 +1,4 @@
-package lab1;
+package mirea.ru.marchenko.kvbo0121.lab1;
 
 import java.util.EmptyStackException;
 import java.util.Stack;
@@ -7,7 +7,7 @@ public class Calculator {
     private final Stack<Double> stack;
 
     public Calculator() {
-        this.stack = new Stack<Double>();
+        this.stack = new Stack<>();
     }
 
     public double calculate(String input) throws EmptyStackException, IllegalOperandException {
