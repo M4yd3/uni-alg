@@ -1,4 +1,4 @@
-package lab2.math;
+package mirea.ru.marchenko.kvbo0121.lab2.math;
 
 public class Subtract extends MathObject {
     public Subtract(MathObject left, MathObject right) {

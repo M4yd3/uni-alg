@@ -1,6 +1,6 @@
-package lab2;
+package mirea.ru.marchenko.kvbo0121.lab2;
 
-import lab2.math.*;
+import mirea.ru.marchenko.kvbo0121.lab2.math.*;
 
 public class Main {
     public static void main(String[] args) {
