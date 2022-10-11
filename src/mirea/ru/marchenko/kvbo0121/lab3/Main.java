@@ -61,5 +61,5 @@ public class Main {
 }
 
 // 6 3 8 2 1 / 0 4 9 5 7 -> second 9
-// 9 3 5 2 1/ / 0 4 8 6 7 -> second 5
+// 9 3 5 2 1 / 0 4 8 6 7 -> second 5
 // 4 0 1 9 7 / 2 3 5 6 8 -> botva
