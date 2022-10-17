@@ -7,6 +7,6 @@ public class Subtract extends MathObject {
 
     @Override
     public double evaluate(double variable) {
-        return getLeft().evaluate(variable) - getRight().evaluate(variable);
+        return left.evaluate(variable) - right.evaluate(variable);
     }
 }
