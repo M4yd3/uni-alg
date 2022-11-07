@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="lab6" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="mirea.ru.marchenko.kvbo0121.lab6.Main" />
+    <module name="alg" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
